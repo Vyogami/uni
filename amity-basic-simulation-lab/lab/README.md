@@ -1,4 +1,4 @@
-# Basic Simulation Lab - Lab Experiments
+# Basic Simulation Lab - Experiments
 
 This directory contains the code and experiment reports for the Basic Simulation Lab course at Amity University.
 
