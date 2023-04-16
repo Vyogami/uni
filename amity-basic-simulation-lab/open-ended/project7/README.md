@@ -1,5 +1,7 @@
 # Image Processing Project
 
+<p>Read a gray scale image in Matlab/Octave. </p><p>a) Add noise (Gaussian, Salt and Pepper noise) to the image.  </p><p>b) Use filters (Gaussian, Median filters) to reduce noise in the image.</p><p>c) Display the original, noisy and smoothened images.</p><p></p>
+
 ## Problem Definition
 
 The aim of this project is to demonstrate how to read a grayscale image in Matlab/Octave, and then add noise (Gaussian and Salt and Pepper noise) to the image. The project will also show how to use filters (Gaussian and Median filters) to reduce noise in the image. Finally, the original, noisy, and smoothened images will be displayed.
