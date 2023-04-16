@@ -53,7 +53,7 @@ The program was evaluated based on its ability to correctly implement the rules 
 
 ### Prototype
 
-The program was implemented and tested in MATLAB R2021a on a Windows 10 machine. The program was tested using a variety of inputs to ensure that it correctly implements the rules of Tic-Tac-Toe and handles invalid moves and end-of-game conditions correctly.
+The program was implemented and tested in MATLAB R202b on a Linux(Arch) Machine. The program was tested using a variety of inputs to ensure that it correctly implements the rules of Tic-Tac-Toe and handles invalid moves and end-of-game conditions correctly.
 
 ### Testing and results
 
