@@ -20,19 +20,19 @@ The `README.md` file in each experiment directory should contain a brief descrip
 
 ## [Open-Ended Projects](./open-ended/README.md)
 
-The `open-ended/` directory contains the code and report files for the open-ended projects. The projects are organized into separate subdirectories, each containing a question file (`projectX.m`), a results file (`projectX_results.pdf`), and a README file (`README.md`) acting as the project report.
+The `open-ended/` directory contains the code and report files for the open-ended projects. The projects are organized into separate subdirectories, each containing a project file (`projectX.m`), a results file (`projectX_results.pdf`), and a README file (`README.md`) acting as the project report.
 
 Here is an example of the structure for project 1:
 
 ``` yaml
 open-ended/
-├── question1/
+├── project1/
 │   ├── project1.m
 │   ├── observations.pdf
 │   └── README.md
 ```
 
-The `README.md` file in each question directory should contain a brief description of the question and any instructions needed to run the code, as well as the results and observations.
+The `README.md` file in each project directory should contain a brief description of the project and any instructions needed to run the code, as well as the results and observations.
 
 ## References
 
