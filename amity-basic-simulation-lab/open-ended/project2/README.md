@@ -60,7 +60,7 @@ To use the program, the user should follow these steps:
 
 ### Overview
 
-The program was tested using MATLAB R2020a on a Windows 10 machine.
+The program was tested using MATLAB R2022b on a Linux(Arch) Machine.
 
 ### Prototype
 
