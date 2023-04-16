@@ -1,25 +1,25 @@
-# Basic Simulation Lab - Open-Ended Experiments
+# Basic Simulation Lab - Open-Ended Projects
 
-This directory contains the code and reports for the open-ended Experiments in the Basic Simulation Lab course at Amity University.
+This directory contains the code and reports for the open-ended Projects in the Basic Simulation Lab course at Amity University.
 
 ## Structure
 
-The directory is organized into separate subdirectories for each experiment. Each subdirectory contains:
+The directory is organized into separate subdirectories for each project. Each subdirectory contains:
 
-- `experimentX.m`: the MATLAB code for the experiment
-- `experimentX-observations.pdf`: a PDF file containing the results of running the code
-- `README.md`: a report summarizing the approach and results for the experiment
+- `projectsX.m`: the MATLAB code for the project
+- `observations.pdf`: a PDF file containing the results of running the code
+- `README.md`: a report summarizing the approach and results for the project
 
 ### Example
 
 ``` yaml
-experiment1/
-├── experiment1.m
-├── experiment1-observations.pdf
+question1/
+├── project1.m
+├── observations.pdf
 └── README.md
 ```
 
-## Experiments
+## Projects
 
 |Sr. No.|Aim |
 | :- | :- |
@@ -27,7 +27,7 @@ experiment1/
 |2\.|<p>Write a program for a Dice Rolling Game. </p><p>a. Simulate the game as a mutli-player game. Ask the user how many players will play the game. (at least two players must play the game.). </p><p>&emsp;b. Players play in alternate turns. In one round, each player gets a chance to roll the dice.</p><p>&emsp;c. For each turn, the program generates two random integer number between 1 and 6 to simulate rolling of two dices. Display number on dice for each player. (Load package pkg load communications, Use randint to generate random number)</p><p>&emsp;d. When each player has rolled the dice, the player with the highest number wins that round. Display winner of each round.</p><p>&emsp;e. Game goes on for 5 rounds.</p><p>&emsp;f. Overall winner(s) is the player who wins most number of rounds.</p><p>Create appropriate displays to display winner of each round and the overall winner.</p>|
 |3\.|<p>Write a program for generating Report Cards for 5 students.</p><p>a. The names and marks for the students are given in the following table.</p><p>b. Create a function that will convert the marks to a grade, when called. Use the conversion table given below.</p><p>c. Create another function to display the overall class using the conversion table shown below.</p><p>d. The report card consists of grade obtained in each subject according to the marks secured in the subject, and the overall class according to the average marks of marks obtained in all subjects.</p>|
 
-### Reference for Experiment 3
+### Reference for Project 3
 <table>
 <tr><td>
 
@@ -61,13 +61,13 @@ experiment1/
 |8\.|<p>Read a color (RGB) image in Matlab/Octave. </p><p>(Use Nemo.PNG available in Files Tab of this team)</p><p>a) Plot the red, green and blue channel on separate plots. Use subplot.</p><p>b) Select a suitable channel for thresholding the foreground. Plot the histogram of this channel.</p><p>c) Use thresholding to convert the image to black and white image and plot it.</p><p></p>|
 |9\.|Given the data about Blood Pressure and Cholesterol for 20 patients, using k-means clustering to group the patients into having high risk of heart attack and those having low risk of heart attack.|
 
-### Reference for Experiment 9
+### Reference for Project 9
 |Column 1|Column 2|
 | :- | :- |
 |Blood Pressure|Cholesterol|
 
 ## References
 
-The `references/` directory contains reference materials for the course, including the open-ended report format, open-ended Experiments in docx format etc
+The `references/` directory contains reference materials for the course, including the open-ended report format, open-ended Projects in docx format etc
 
-For further information, please refer to the individual `README.md` files located in the subdirectories for each experiment.
+For further information, please refer to the individual `README.md` files located in the subdirectories for each project.
