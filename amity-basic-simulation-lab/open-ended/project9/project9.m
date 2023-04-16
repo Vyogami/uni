@@ -15,6 +15,13 @@ xlabel('Blood Pressure (mm Hg)');
 ylabel('Cholesterol (mg/dL)');
 title('Patient Clustering');
 
+% Print the data for all patients along with their index
+fprintf('Patient Data:\n');
+for i = 1:size(data, 1)
+    fprintf('Patient %d: Blood Pressure=%0.2f mm Hg, Cholesterol=%0.2f mg/dL\n', i, data(i, 1), data(i, 2));
+end
+fprintf('\n');
+
 % Group the patients into high-risk and low-risk categories based on the clusters
 low_risk = find(clusters == 1);
 high_risk = find(clusters == 2);
@@ -22,4 +29,3 @@ high_risk = find(clusters == 2);
 % Print the results
 fprintf('Low-risk patients: %s\n', mat2str(low_risk));
 fprintf('High-risk patients: %s\n', mat2str(high_risk));
-
