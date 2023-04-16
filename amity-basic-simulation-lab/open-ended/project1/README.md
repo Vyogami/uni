@@ -1,4 +1,4 @@
-# Number Guessing Game Experiment
+# Number Guessing Game Project
 
 <p>Write a program for a Number Guessing Game. </p><p>a. Program generates a random integer number between 1 and 50. (Load package pkg load communications, Use randint to generate random number)</p><p>&emsp;b. Player makes a guess. If first guess is </p><p>&emsp;&emsp;i. within 10 of the number, return "WARM!" </p><p>&emsp;&emsp;ii. further than 10 away from the number, return "COLD!" </p><p>&emsp;c. Next Guess onwards, if guess is </p><p>&emsp;&emsp;i. closer than before, return "WARMER!" </p><p>&emsp;&emsp;ii. further away, return "COLDER!" </p><p>&emsp;d. Player gets maximum 10 chances. If the player guesses the number, he wins, else he looses.</p><p></p>
 
@@ -6,15 +6,15 @@
 
 ### Problem Scope
 
-In this experiment, we are tasked with creating a number guessing game. The game will generate a random integer number between 1 and 50 and the player will have to guess the number. The game will provide feedback to the player based on their guess, and the player will have a maximum of 10 chances to guess the number.
+In this project, we are tasked with creating a number guessing game. The game will generate a random integer number between 1 and 50 and the player will have to guess the number. The game will provide feedback to the player based on their guess, and the player will have a maximum of 10 chances to guess the number.
 
 ### Technical Review
 
-To complete this experiment, we will use the `randi` function from MATLAB to generate a random integer number between 1 and 50. We will also use basic input/output functions to interact with the player and provide feedback based on their guesses.
+To complete this project, we will use the `randi` function from MATLAB to generate a random integer number between 1 and 50. We will also use basic input/output functions to interact with the player and provide feedback based on their guesses.
 
 ### Design Requirements
 
-The design for this experiment must satisfy the following requirements:
+The design for this project must satisfy the following requirements:
 
 - Generate a random integer number between 1 and 50
 - Allow the player to make guesses
@@ -63,4 +63,4 @@ The number guessing game satisfies all of the design requirements and functions 
 
 ### Next Steps
 
-There are no immediate next steps for this experiment. The number guessing game is a simple game and the current design satisfies all of
+There are no immediate next steps for this project. The number guessing game is a simple game and the current design satisfies all of
