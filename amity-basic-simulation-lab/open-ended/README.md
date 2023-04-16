@@ -42,13 +42,22 @@ project1/
 
 </td><td>
 
-|**Marks in a Subject**|**Grade**||**Average Marks**|**Class Secured**|
-| :- | :- | :- | :- | :- |
-|<60|D||<60|II|
-|>=60 and <70|C||>=60 and <75|I|
-|>=70 and <85|B||>=75|Distinction|
+|**Marks in a Subject**|**Grade**|
+| :- | :- |
+|<60|D|
+|>=60 and <70|C|
+|>=70 and <85|B|
 |>=85 and <=100|A||||
 
+</td>
+
+<td>
+
+|**Average Marks**|**Class Secured**|
+| :- | :- |
+|<60|II|
+|>=60 and <75|I|
+|>=75|Distinction|
 </td>
 </tr>
 </table>
