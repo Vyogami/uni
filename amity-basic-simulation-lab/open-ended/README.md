@@ -13,7 +13,7 @@ The directory is organized into separate subdirectories for each project. Each s
 ### Example
 
 ``` yaml
-question1/
+project1/
 ├── project1.m
 ├── observations.pdf
 └── README.md
