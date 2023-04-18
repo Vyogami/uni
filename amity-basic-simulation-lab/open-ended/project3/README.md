@@ -1,4 +1,4 @@
-# Program for Generating Report Cards for 5 Students
+# Report Card Generator
 
 <p>Write a program for generating Report Cards for 5 students.</p><p>a. The names and marks for the students are given in the following table.</p><p>b. Create a function that will convert the marks to a grade, when called. Use the conversion table given below.</p><p>c. Create another function to display the overall class using the conversion table shown below.</p><p>d. The report card consists of grade obtained in each subject according to the marks secured in the subject, and the overall class according to the average marks of marks obtained in all subjects.</p>
 
