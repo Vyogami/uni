@@ -1,4 +1,4 @@
-# Image Thresholding in MATLAB/Octave
+# Image Thresholding
 
 <p>Read a gray scale image in Matlab/Octave. </p><p>(Use screws.tif from <https://people.math.sc.edu/Burkardt/data/tif/tif.html>, and available in Files Tab of this team)</p><p>a) Plot its histogram and determine a suitable value for threshold.  </p><p>b) Display the original and thresholded image.</p><p></p>
 
