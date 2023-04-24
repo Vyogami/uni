@@ -26,3 +26,4 @@ filtered_img_gaussian = imgaussfilt(noisy_img_gaussian, 2);
 subplot(2, 2, 4);
 imshow(filtered_img_gaussian);
 title('Filtered Image (Gaussian)');
+
